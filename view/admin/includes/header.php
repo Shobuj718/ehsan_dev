@@ -1532,7 +1532,23 @@ z-index: 999999;
                 </li>
 
         <li><a href="javascript:void(0)"><i class="fa fa-circle-o"></i> রিপোর্ট </a></li>
-               
+             
+                   <li class="treeview  ">
+                    <a href="javascript:void(0)">
+                        <i class="fa fa-folder"></i> <span>Forms </span>
+                        <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+                    </a>
+                    <ul class="treeview-menu">
+                        <li><a href="view/admin/form/general.php"><i class="fa fa-circle-o"></i> General Form </a></li>
+                        <li><a href="view/admin/form/advance.php"><i class="fa fa-circle-o"></i> Advance Form</a></li>
+                        <li><a href="view/admin/form/Editor.php"><i class="fa fa-circle-o"></i> Editor</a></li>
+                        <li><a href="view/admin/form/button.php"><i class="fa fa-circle-o"></i> Button </a></li>
+                        <li><a href="javascript:void(0)"><i class="fa fa-circle-o"></i> ডিলিট করা </a></li>
+                        <li><a href="javascript:void(0)"><i class="fa fa-circle-o"></i> রিপোর্ট </a></li>
+                    </ul>
+                </li>  
                 
 
             </ul>
