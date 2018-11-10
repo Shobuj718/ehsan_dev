@@ -1546,7 +1546,7 @@ z-index: 999999;
                         <li><a href="view/admin/form/Editor.php"><i class="fa fa-circle-o"></i> Editor</a></li>
                         <li><a href="view/admin/form/button.php"><i class="fa fa-circle-o"></i> Button </a></li>
                         <li><a href="javascript:void(0)"><i class="fa fa-circle-o"></i> ডিলিট করা </a></li>
-                        <li><a href="javascript:void(0)"><i class="fa fa-circle-o"></i> রিপোর্ট </a></li>
+                        <li><a href="view/admin/form/commitee.php"><i class="fa fa-circle-o"></i> Form design </a></li>
                     </ul>
                 </li>  
                 
