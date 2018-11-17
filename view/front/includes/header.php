@@ -229,8 +229,16 @@ echo $dt->format('F j, Y, g:i a'); ?> </p>
                   <li><a href="view/front/ourspeak/404.php">কক্ষ  সংখ্যা </a></li>
                   <li><a href=" view/front/ourspeak/404.php">শিক্ষার্থী আসন  সংখ্যা </a></li>
                   <li><a href="view/front/ourspeak/404.php">যানবাহন </a></li>
+                  <li><a href="view/front/information/404.php">শূন্য  পদ </a>
+                  <li><a href="view/front/information/404.php">সংবাদ</a></li>
+                <li><a href="view/front/information/2018 Vacation Notice .pdf" target="_blank">ছুটির তালিকা</a></li>
+                
+                
                 </div>
                 <div class="col-md-6">
+                <li><a href="view/front/information/404.php">সুযোগ সুবিধা</a></li>
+                  <li><a href="view/front/information/404.php">লাইব্রেরী</a></li>
+                <li><a href="view/front/information/404.php">প্রকাশনা</a></li>
                   <li><a href="view/front /ourspeak/404.php">মাল্টিমিডিয়া  ক্লাসরুম </a></li>
                   <li><a href="view/front/ourspeak/404.php">কম্পিউটার  ল্যাব </a></li>
                   <li><a href="view/front/ourspeak/404.php">স্কুলের আইন </a></li>
@@ -247,21 +255,16 @@ echo $dt->format('F j, Y, g:i a'); ?> </p>
                 <div class="col-md-5">
                 <li><a href="view/front/information/404.php">কৃতি শিক্ষার্থীগণ</a>
                 <li><a href="view/front/information/404.php">কর্মরত  শিক্ষক/কর্মচারী </a>
-                <li><a href="view/front/information/404.php">শূন্য  পদ </a>
-                  <li><a href="view/front/information/404.php">সংবাদ</a></li>
-                <li><a href="view/front/information/2018 Vacation Notice .pdf" target="_blank">ছুটির তালিকা</a></li>
                 
-                <li><a href="view/front/information/404.php">সুযোগ সুবিধা</a></li>
-                  <li><a href="view/front/information/404.php">লাইব্রেরী</a></li>
-                <li><a href="view/front/information/404.php">প্রকাশনা</a></li>
                 <li><a href="view/front/information/404.php">ছাড়পত্র </a></li>
                 <li><a href="view/front/information/404.php">প্রশংসা পত্র </a></li>
                 <li><a href="view/front/information/404.php">প্রত্যয়ন পত্র </a></li>
-                </div>
-                <div class="col-md-7">
                 <li><a href="http://www.teachers.gov.bd" target="_blank">শিক্ষক বাতায়ন  </a></li>
                 <li><a href="http://www.konnect.edu.bd" target="_blank">কিশোর  বাতায়ন  </a></li>
                 <li><a href="http://www.muktopaath.gov.bd" target="_blank">মুক্ত  পাঠ</a></li>
+                </div>
+                <div class="col-md-7">
+                
                 <li><a href="view/front/information/404.php">শিক্ষকদের কর্নার </a></li>
                 <li><a href="view/front/information/404.php">শিক্ষার্থীদের কর্নার </a></li>
                 <li><a href="view/front/information/404.php">অতিথিদের কর্নার </a></li>
@@ -285,18 +288,16 @@ echo $dt->format('F j, Y, g:i a'); ?> </p>
                 <li><a href="view/front/information/404.php">অভিভাবকের জন্য নির্দেশিকা</a></li>
                   <li><a href="view/front/information/404.php">সহ-শিক্ষাক্রমিক কার্যাবলী</a></li>
                 <li><a href="view/front/information/404.php">পোষাকরীতি</a></li>
-                <li><a href="view/front/information/404.php">পাঠ্য বইয়ের তালিকা </a></li>
                 </div>
                 <div class="col-md-6">
-                  
+                  <li><a href="view/front/information/404.php">পাঠ্য বইয়ের তালিকা </a></li>
+
                   <li><a href="view/front/information/photogallery.php">ফটো গ্যালারী</a></li>
                   <li><a href="view/front/information/404.php">ভিডিও গ্যালারী</a></li>
                   <li><a href="view/front/information/404.pdf" target="_blank">প্রতিষ্ঠানের পরীক্ষার ফলাফল</a></li>
                   <li><a href="view/front/information/404.php">জে.এস.সি পরীক্ষার ফলাফল - ২০১৭</a></li>
                   <li><a href="http://www.educationboardresults.gov.bd/">বোর্ড পরীক্ষার ফলাফল</a></li>
                   <li><a href="http://www.ebook.gov.bd/">ই-বুক</a>                      
-                  <li><a href="view/front/information/404.php">শিক্ষার্থীর একাডেমিক তথ্যাবলী</a></li>
-                  <li><a href="view/front/information/404.php"> শিক্ষকের  তথ্যাবলী</a></li>
 
                 </div>
               </div>
